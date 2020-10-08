@@ -20,7 +20,7 @@ PyYAML==3.10
 SQLAlchemy==0.9.8
 SQLAlchemy-Utils==0.29.2
 Unidecode==0.04.17
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 alembic==0.7.3
 argparse==1.2.1
 arrow==0.5.4
