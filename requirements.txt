@@ -40,7 +40,7 @@ pyboleto==0.2.14
 python-dateutil==2.4.2
 python-magic==0.4.6
 reportlab==3.1.44
-requests==2.6.0
+requests==2.20.0
 six==1.9.0
 tablib==0.10.0
 testfixtures==4.1.2
