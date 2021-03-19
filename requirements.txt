@@ -15,7 +15,7 @@ Jinja2==2.7.3
 Mako==1.0.0
 Markdown==2.6
 MarkupSafe==0.23
-Pillow==2.8.1
+Pillow==8.1.1
 PyYAML==3.10
 SQLAlchemy==0.9.8
 SQLAlchemy-Utils==0.29.2
