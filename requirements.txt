@@ -16,7 +16,7 @@ Mako==1.0.0
 Markdown==2.6
 MarkupSafe==0.23
 Pillow==2.8.1
-PyYAML==3.10
+PyYAML==5.4
 SQLAlchemy==0.9.8
 SQLAlchemy-Utils==0.29.2
 Unidecode==0.04.17
